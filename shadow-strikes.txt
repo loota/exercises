@@ -1,0 +1,14 @@
+Left straight punch
+Right straight punch
+Left hook punch
+Right hook punch
+Left uppercut
+Right uppercut
+Left straight kick
+Right straight kick
+Left round kick
+Right round kick
+Left knee kick
+Right knee kick
+Done
+Done
