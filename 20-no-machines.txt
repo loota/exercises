@@ -2,7 +2,7 @@ Kickback
 Bicep curl
 Shoulder press
 Bench press
-Close grip row
+Row
 Crunch
 Squat
 Straight legged deadlift
@@ -11,7 +11,7 @@ Tricep curl
 Reverse grip bicep curl
 Power Clean
 Fly
-Row
+Close grip row
 Wrist curl
 Abdominal bicycling
 Calf raise

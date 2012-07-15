@@ -1,4 +1,4 @@
-Power clean
-Shoulder press
-Bench press
-Front raise
+Power clean    1  5
+Shoulder press 1  5
+Bench press    1  5
+Front raise    1  5

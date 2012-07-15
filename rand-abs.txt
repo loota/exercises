@@ -1,6 +1,6 @@
-Sit up
-Crunch
-Leg raise
-Plank
-Twisting sit up
-Bicycling
+Sit up:          1  5 
+Crunch:          1  5
+Leg raise:       1  3
+Plank:           5  20
+Twisting sit up: 1  3
+Bicycling:       5  20
